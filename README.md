@@ -10,7 +10,8 @@ This script calculates the areal quantum capacitance and the charge storage of a
 ## Date
 - Year: 2024
 - Month: May
-
+## DOI:
+10.5281/zenodo.11130644
 # Instructions
 1. Run the script.
 2. Enter the paths to the E.txt and dos.txt files which contain the energy of density states and density of states, respectively.
